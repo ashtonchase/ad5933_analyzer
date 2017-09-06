@@ -1,0 +1,2 @@
+* human body interfacing
+** maximum allowable current into the human body is 50uA. 
